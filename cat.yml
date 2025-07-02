@@ -1,0 +1,25 @@
+cat:
+  name: "Whiskers"
+  age: 3
+  breed: "Siamese"
+  color: "Cream with chocolate points"
+  gender: "Female"
+  vaccinated: true
+  characteristics:
+    - playful
+    - curious
+    - vocal
+    - affectionate
+  favorite_foods:
+    - tuna
+    - chicken
+    - salmon treats
+  dislikes:
+    - loud noises
+    - water
+  medical_history:
+    neutered: true
+    vaccinations:
+      - rabies
+      - feline distemper
+      - feline herpesvirus
